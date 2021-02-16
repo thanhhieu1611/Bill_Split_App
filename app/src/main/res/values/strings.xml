@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bill Split App</string>
+    <string name="nameLblRestaurantBill">Restaurant Bill:</string>
+    <string name="hintResBill">Please input the restaurant bill</string>
+<!--    <string name="hintResBillInput">0</string>-->
+    <string name="noOfGuest">Number Of Guests:</string>
+    <string name="hintNoOfGuests">Number of Guests</string>
+    <string name="hintCurrencyValue">0.00</string>
+    <string name="hintNoOfGuestVal">2</string>
+    <string name="txtLblTips">Tips:</string>
+    <string name="txtTotalBill">Total Bill:</string>
+    <string name="txtTotalBillVal">0.00</string>
+    <string name="lblIndividual">SPLIT THE BILL</string>
+    <string name="lblIndiBill">Individual Bill:</string>
+    <string name="txtIndiBill">0.00</string>
+    <string name="lblIndiTip">Individual Tip</string>
+    <string name="txtIndiTip">0.00</string>
+    <string name="lblIndiTotal">Individual Total</string>
+    <string name="txtIndiTotal">0.00</string>
+    <string name="imgRes">This is an image of restaurant</string>
+    <string name="lblThankyou">Thank you. See you soon!</string>
+    <string-array name="tipOptions">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>
